@@ -9,6 +9,7 @@ Atualmente, estou em busca da minha primeira experiência profissional na área 
 Além das minha habilidades técnicas que aprendo e prático, possuo também boas habilidades sociais. Como proatividade, adaptabilidade, trabalho em equipe e estou sempre aberto a novos aprendizados.
 
 <hr>
+<h2>Habilidades Técnicas</h2><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +22,8 @@ Além das minha habilidades técnicas que aprendo e prático, possuo também boa
 </div> 
 
 <hr>
+<h2>Redes Sociais</h2><br>
+
 <div><br>
  
   <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
