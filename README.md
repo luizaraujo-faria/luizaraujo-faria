@@ -6,12 +6,11 @@ Sou um aluno que está constantemente se aprimorando e aprendendo para refinar m
 
 Atualmente, estou em busca da minha primeira experiência profissional na área de tecnologia, com foco no Desenvolvimento Web, para isso busco sempre demonstrar minha capacidade atravéz de meus projetos pessoais.
 
-Além das minha habilidades técnicas que aprendo e prático, possuo também boas habilidades sociais. Como proatividade, adaptabilidade, trabalho em equipe e estou sempre aberto a novos aprendizados.
+Além das minha habilidades técnicas que aprendo e prático, possuo também boas habilidades sociais. Como proatividade, adaptabilidade, trabalho em equipe e estou sempre aberto a novos aprendizados.<br>
 
-<hr>
-<h2>Habilidades Técnicas</h2><br>
+<h2>Habilidades Técnicas</h2>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javacript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -19,10 +18,9 @@ Além das minha habilidades técnicas que aprendo e prático, possuo também boa
   <img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div> 
+</div><br>
 
-<hr>
-<h2>Redes Sociais</h2><br>
+<h2>Redes Sociais</h2>
 
 <div><br>
  
