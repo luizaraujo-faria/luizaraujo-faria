@@ -8,6 +8,7 @@ Atualmente, estou em busca da minha primeira experiência profissional na área 
 
 Além das minha habilidades técnicas das quais exército constantemente, possuo também características interpessoais e intrapessoais tais como proatividade, organização, adaptabilidade e cooperação em equipe e estou sempre aberto a novos aprendizados.<br>
 
+
 <h2>Habilidades Técnicas</h2>
 
 <div style="display: inline_block">
