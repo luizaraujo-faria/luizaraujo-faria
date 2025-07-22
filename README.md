@@ -11,7 +11,7 @@ Além das minha habilidades técnicas das quais exército constantemente, possuo
 
 <h2>Habilidades Técnicas</h2>
 
-<div style="display: inline-block;">
+<div style="display: inline_block;">
   <img align="center" alt="Javacript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typecript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
