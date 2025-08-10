@@ -9,7 +9,7 @@ Atualmente, estou em busca da minha primeira experiência profissional na área 
 Além das minha habilidades técnicas das quais exército constantemente, possuo também características interpessoais e intrapessoais tais como proatividade, organização, adaptabilidade e cooperação em equipe e estou sempre aberto a novos aprendizados.<br>
 
 
-<h2>Habilidades Técnicas</h2>
+<h2>Skills</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="Javacript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +23,7 @@ Além das minha habilidades técnicas das quais exército constantemente, possuo
   <img align="center" alt="Mysql" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br>
 
-<h2>Ferramentas</h2>
+<h2>Tools</h2>
 
 <div>
   <img align="center" alt="VSCode" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -32,7 +32,7 @@ Além das minha habilidades técnicas das quais exército constantemente, possuo
   <img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
-<h2>Redes</h2>
+<h2>Social</h2>
 
 <div><br>
   
