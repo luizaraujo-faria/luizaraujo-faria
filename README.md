@@ -43,6 +43,8 @@ Além das minha habilidades técnicas das quais exército constantemente, possuo
   
 </div><br>
 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+
 <div align="start">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizaraujo-faria&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=000000&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Status" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaraujo-faria&layout=compact" />
