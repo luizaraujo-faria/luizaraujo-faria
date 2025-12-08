@@ -44,7 +44,8 @@ Além das minha habilidades técnicas das quais exército constantemente, possuo
 </div><br>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
-  ![Stats](https://github-readme-stats.vercel.app/api?username=luizaraujo-faria)
+  ![Metrics](https://metrics.lecoq.io/luizaraujo-faria)
+  ![Stats](https://github-readme-stats-demolab.vercel.app/api?username=luizaraujo-faria)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizaraujo-faria)
 
 <div align="start">  
