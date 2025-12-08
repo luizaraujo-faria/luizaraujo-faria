@@ -44,7 +44,7 @@ Além das minha habilidades técnicas das quais exército constantemente, possuo
 </div><br>
 
 <div style="display: inline-block">  
-  <img align="center" alt="Stats" width="400"  src="https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark">
+  <img align="center" alt="Stats" width="425" src="https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark">
   &nbsp;
   &nbsp;
   &nbsp;
