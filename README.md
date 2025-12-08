@@ -43,9 +43,14 @@ Além das minha habilidades técnicas das quais exército constantemente, possuo
   
 </div><br>
 
-  ![Stats](https://githubstats-umber.vercel.app/api?username=luizaraujo-faria)
-  ![Top Langs](https://githubstats-umber.vercel.app/api/top-langs/?username=luizaraujo-faria)
+  <!--  -->
+
+  
+
 
 <div align="start">  
-
+  
+  ![Anurag's GitHub stats](https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark)
+   
+  ![Top Langs](https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=compact&theme=dark)
 </div>
