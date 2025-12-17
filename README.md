@@ -1,12 +1,11 @@
 ## Hello there 👋
 
-Me chamo Luiz Henrique, tenho 16 anos e estou cursando o 2° ano no M-Tec em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy. 
+Me chamo Luiz Henrique, tenho 17 anos e estou cursando o 2° ano no M-Tec em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy. 
 
-Sou um aluno interessado e que busca sempre aprender e praticar cada vez mais para aprimorar meus conhecimentos e habilidades como desenvolvedor Full-Stack.
+Sou um aluno interessado e sempre em busca de aprimorar e elevar minhas habilidades como desenvolvedor FullStack.
 
-Atualmente, estou em busca da minha primeira experiência profissional na área do desenvolvimento de software, porém, enquanto não alcanço essa oportunidade sigo aplicando meus conhecimentos atravéz de projetos pessoais.
-
-Além das minha habilidades técnicas das quais exército constantemente, possuo também características interpessoais e intrapessoais tais como proatividade, organização, adaptabilidade e cooperação em equipe e estou sempre aberto a novos aprendizados.<br>
+Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecida pela USP na Rede Lucy Montoro IMREA, onde atuo como desenvolvedor de software no setor da Bioengenharia.
+<br>
 
 
 <h2>Skills</h2>
