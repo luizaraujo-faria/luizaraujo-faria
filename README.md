@@ -45,8 +45,11 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   
   <a href="https://www.linkedin.com/in/luiz-h-araujo-95050731b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div><br>
+
+# GitHub Status
 
 <div style="display: inline-block">  
   <img align="center" alt="Stats" width="425" src="https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark">
