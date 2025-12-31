@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 
 Me chamo Luiz Henrique, tenho 17 anos e estou cursando o 2° ano no M-Tec em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy. 
 
@@ -8,10 +8,10 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
 <br>
 
 
-<h2>Hard Skills</h2>
+# Hard Skills
 
 <div style="display: inline_block">
-  <h3>Front-End</h3>
+  <h4>Front-End</h4>
   <img align="center" alt="Javacript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Typecript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,9 +21,8 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
 </div><br>
 
 <div style="display: inline_block">
-  <h3>Back-End</h3>
-
-  <img align="center" alt="Node" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <h4>Back-End</h4>
+  <img align="center" alt="Node" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Express" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="C#" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -31,7 +30,7 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   <!--   <img align="center" alt="Cpp" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
 </div><br>
 
-<h2>Tools</h2>
+# Tools
 
 <div>
   <img align="center" alt="VSCode" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -47,6 +46,7 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   
   <a href="https://www.linkedin.com/in/luiz-h-araujo-95050731b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div><br>
 
