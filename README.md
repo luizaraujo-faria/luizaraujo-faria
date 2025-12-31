@@ -10,7 +10,64 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
 
 # Hard Skills
 
-<div style="display: inline_block">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <h4>Front-End</h4>
+      <img align="center" alt="Javascript" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img align="center" alt="Typescript" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+      <img align="center" alt="React" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Tailwind" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+      <img align="center" alt="CSS" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="HTML" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </td>
+    <td width="250"></td>
+    <td valign="top">
+      <h4>Back-End</h4>
+      <img align="center" alt="Node" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+      <img align="center" alt="Express" height="30" width="35"
+        src="https://raw.githubusercontent.com/luizaraujo-faria/luizaraujo-faria/refs/heads/main/assets/Logo-Express.svg">
+      <img align="center" alt="C#" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt="ASP.NET" height="35" width="35"
+        src="https://github.com/luizaraujo-faria/luizaraujo-faria/blob/main/assets/Logo-AspNet.svg">
+      <img align="center" alt="Java" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" alt="Spring" height="30" width="35"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <h4>Tools</h4>
+      <img align="center" alt="VSCode" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <img align="center" alt="Mysql" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img align="center" alt="Postman" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+      <img align="center" alt="Figma" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    </td>
+    <td width="290"></td>
+    <td valign="top">
+      <h4>Mobile</h4>
+      <img align="center" alt="ReactNative" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/reactnative/reactnative-original.svg">
+      <img align="center" alt="Expo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/expo/expo-original.svg">
+      <img align="center" alt="Android" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-plain.svg">
+      <img align="center" alt="IOS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apple/apple-original.svg">
+    </td>
+  </tr>
+</table>
+
+<!-- <div style="display: inline_block">
   <h4>Front-End</h4>
   <img align="center" alt="Javacript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Typecript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -18,7 +75,7 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   <img align="center" alt="Tailwind" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div><br>
+</div>
 
 <div style="display: inline_block">
   <h4>Back-End</h4>
@@ -28,7 +85,7 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   <img align="center" alt="ASPNET" height="35" width="35" src="https://github.com/luizaraujo-faria/luizaraujo-faria/blob/main/assets/Logo-AspNet.svg">
   <img align="center" alt="Java" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <!--   <img align="center" alt="Cpp" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
+  <!--   <img align="center" alt="Cpp" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div><br>
 
 <div>
@@ -38,8 +95,15 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   <img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Postman" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Figma" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Expo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/expo/expo-original.svg">
 </div><br>
+
+<div>
+  <h4>Mobile</h4>
+  <img align="center" alt="ReactNative" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/reactnative/reactnative-original.svg">
+  <img align="center" alt="Expo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/expo/expo-original.svg">
+  <img align="center" alt="Android" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-plain.svg">
+  <img align="center" alt="IOS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apple/apple-original.svg">
+</div><br> -->
 
 # Social
 
