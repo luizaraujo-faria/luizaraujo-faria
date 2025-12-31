@@ -33,7 +33,7 @@
 - <div style="display: inline_block">
   <h4>Back-End 🕹</h4> 
   <img align="center" alt="Node" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Express" height="30" width="35" src="https://raw.githubusercontent.com/luizaraujo-faria/luizaraujo-faria/refs/heads/main/assets/Logo-Express.svg">
+  <img align="center" alt="Express" height="35" width="35" src="https://github.com/luizaraujo-faria/luizaraujo-faria/blob/main/assets/Logo-Express.svg">
   <img align="center" alt="C#" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ASPNET" height="35" width="35" src="https://github.com/luizaraujo-faria/luizaraujo-faria/blob/main/assets/Logo-AspNet.svg">
   <img align="center" alt="Java" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
