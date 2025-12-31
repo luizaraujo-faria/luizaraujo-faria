@@ -34,31 +34,22 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
 <div>
   <h4>Tools</h4>
   <img align="center" alt="VSCode" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Figma" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Postman" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mysql" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Postman" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Figma" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Expo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/expo/expo-original.svg">
 </div><br>
 
 # Social
 
 <div><br>
   
-  <a href="https://www.linkedin.com/in/luiz-h-araujo-95050731b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  <a href="https://www.linkedin.com/in/luiz-h-araujo-95050731b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5511990076535&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
-  <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="https://api.whatsapp.com/send/?phone=5511990076535&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  
-  <a background="#ffffff" href="araujodev.vercel.app" target="_blank">
-    <img width="160" src="https://raw.githubusercontent.com/luizaraujo-faria/luizaraujo-faria/refs/heads/main/assets/Logo.svg">
-  </a>
+  <a href="https://araujodev.vercel.app/" target="_blank"><img width="80" height="80" src="https://github.com/luizaraujo-faria/luizaraujo-faria/blob/main/assets/Logo.svg"></a>
   
 </div><br>
 
