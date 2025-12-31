@@ -44,9 +44,21 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
 
 <div><br>
   
-  <a href="https://www.linkedin.com/in/luiz-h-araujo-95050731b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send/?phone=5511990076535&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-h-araujo-95050731b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  
+  <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://api.whatsapp.com/send/?phone=5511990076535&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  
+  <a background="#ffffff" href="araujodev.vercel.app" target="_blank">
+    <img width="160" src="https://raw.githubusercontent.com/luizaraujo-faria/luizaraujo-faria/refs/heads/main/assets/Logo.svg">
+  </a>
   
 </div><br>
 
