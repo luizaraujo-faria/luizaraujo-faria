@@ -1,8 +1,8 @@
 # Hello there 👋
 
-Me chamo Luiz Henrique, tenho 17 anos e estou cursando o 2° ano no M-Tec em Desenvolvimento de Sistemas pela Etec Prof. Basilides de Godoy. 
+Me chamo Luiz Henrique, tenho 17 anos e sou desenvolvedor full-stack apaixonado por desenvolvimento de software. Estou cursando meu 3° ano do Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas pela Etec Professor Basilides de Godoy.
 
-Sou um aluno interessado e sempre em busca de aprimorar e elevar minhas habilidades como desenvolvedor FullStack.
+Estou constantemente pesquisando, estudando, desenvolvendo e aprendendo em busca aprimorar meus conhecimentos e habilidades e me tornar um profissional cada vez melhor. Neste caminho busco construir uma mente cada vez mais aberta para diversas oportunidades e possibilidades para conhecer novas pessoas, lugares e ferramentas que possam me levar a outros níveis e ao aprendizado.
 
 Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecida pela USP na Rede Lucy Montoro IMREA, onde atuo como desenvolvedor de software no setor da Bioengenharia.
 <br>
@@ -30,9 +30,8 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   <!--   <img align="center" alt="Cpp" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
 </div><br>
 
-# Tools
-
 <div>
+  <h4>Tools</h4>
   <img align="center" alt="VSCode" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Figma" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Postman" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
@@ -40,13 +39,12 @@ Atualmente estou trabalhando e aprendendo em uma Iniciação Cientifica oferecid
   <img align="center" alt="Mysql" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br>
 
-<h2>Social</h2>
+# Social
 
 <div><br>
   
   <a href="https://www.linkedin.com/in/luiz-h-araujo-95050731b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/luizaraujo_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div><br>
 
