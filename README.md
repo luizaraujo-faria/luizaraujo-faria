@@ -56,7 +56,7 @@
   <img align="center" alt="ReactNative" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/reactnative/reactnative-original.svg">
   <img align="center" alt="Expo" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/expo/expo-original.svg">
   <img align="center" alt="Android" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-plain.svg">
-  <img align="center" alt="IOS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apple/apple-original.svg">
+  <!-- <img align="center" alt="IOS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apple/apple-original.svg"> -->
 </div><br>
 
 # GitHub Status 📊
