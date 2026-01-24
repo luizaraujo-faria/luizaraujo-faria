@@ -63,7 +63,7 @@
 # GitHub Status 📊
 
 <div style="display: inline-block">  
-  <img align="center" alt="Stats" width="425" src="https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark">
+  <img align="center" alt="Stats" width="425" src="https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&show_icons=true&theme=dark">
   &nbsp;
   &nbsp;
   &nbsp;
@@ -71,7 +71,7 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  <img align="center" alt="Languages" width="350" src="https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=compact&theme=dark">
+  <img align="center" alt="Languages" width="350" src="https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=donut&theme=dark">
   
   <!-- ![Anurag's GitHub stats](https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark) -->
   <!-- ![Top Langs](https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=compact&theme=dark) -->
