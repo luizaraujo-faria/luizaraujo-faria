@@ -22,8 +22,8 @@
 
 - <div style="display: inline_block">
   <h4>Front-End 🎨</h4> 
-  <img align="center" alt="Javacript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Typecript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Javacript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typecript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwind" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <!-- <img align="center" alt="CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
@@ -71,7 +71,7 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  <img align="center" alt="Languages" width="350" src="https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=donut&theme=dark">
+  <img align="center" alt="Languages" width="350" src="https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=donut&theme=dark&hide=html,css">
   
   <!-- ![Anurag's GitHub stats](https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark) -->
   <!-- ![Top Langs](https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=compact&theme=dark) -->
