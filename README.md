@@ -71,7 +71,7 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  <!-- <img align="center" alt="Languages" width="350" src="https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=donut&theme=dark&hide=html,css"> -->
+  <img align="center" alt="Languages" width="350" src="https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=donut&theme=dark&hide=html,css">
   
   <!-- ![Anurag's GitHub stats](https://githubstats-umber.vercel.app/api?username=luizaraujo-faria&theme=dark) -->
   <!-- ![Top Langs](https://githubstats-umber.vercel.app/api/top-langs?username=luizaraujo-faria&layout=compact&theme=dark) -->
