@@ -39,7 +39,7 @@
   <!-- <img align="center" alt="ASPNET" height="35" width="35" src="https://github.com/luizaraujo-faria/luizaraujo-faria/blob/main/assets/Logo-AspNet.svg"> -->
   <img align="center" alt="Java" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!-- <img align="center" alt="Spring" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> -->
-  <!--   <img align="center" alt="Cpp" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
+    <img align="center" alt="Cpp" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 - <div>
